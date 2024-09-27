@@ -10,8 +10,9 @@ body{
     background-image: url("/images/birmingham.webp");
     background-size: cover;
     height: 350px;
-    
+    margin: 0;
     color: whitesmoke;
+    
 }
 
 .flexbox{
@@ -20,8 +21,9 @@ body{
 }
 
 .activity {
-    border: solid 2px blue;
-    background-color: aquamarine;
+    margin: 0;
+    background-color: #caf0f8;
+    border: 2px solid #caf0f8;
 }
 
 .image-activities {
@@ -31,5 +33,5 @@ body{
 }
 
 .paragraph {
-    width: 250px;
+    width: 350px;
 }
