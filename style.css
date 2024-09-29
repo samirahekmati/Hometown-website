@@ -70,3 +70,9 @@ body {
 .card-paragraph {
   padding-top: 20px;
 }
+
+#carousel {
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
